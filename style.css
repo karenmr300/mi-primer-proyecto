@@ -1,0 +1,34 @@
+body{
+    background-color:#0f172a;
+    color:white;
+    font-family:Arial;
+    margin:0;
+    padding:0;
+}
+
+.container{
+    max-width:800px;
+    margin:auto;
+    padding:40px;
+    text-align:center;
+}
+
+.linea{
+    margin:40px 0;
+    border:1px solid #1e293b;
+}
+
+.tecnologia{
+    background:#1e293b;
+    padding:10px 20px;
+    border-radius:20px;
+    margin:5px;
+    display:inline-block;
+}
+
+.proyecto{
+    background:#1e293b;
+    padding:20px;
+    border-radius:15px;
+    margin-top:20px;
+}
